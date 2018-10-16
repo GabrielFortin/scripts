@@ -1,3 +1,4 @@
+# Author : Gabriel Fortin
 import json
 
 data = {
